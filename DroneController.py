@@ -359,7 +359,7 @@ class DroneController:
             # self.drone.rotate_clockwise(x=digree)
 
     def pose_action(self,poseName:str):
-        avaiablePoses={"crossedWrists":}
+        # avaiablePoses={"crossedWrists":}
         """
         面对Drone：
         左大小臂水平=yawr，但不能让人物离开画面
